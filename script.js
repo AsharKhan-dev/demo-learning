@@ -1,3 +1,3 @@
 function sayHi() {
-  alert("Hello! Git is working!// updated");
+  alert("Hello! Git is working!");
 }
